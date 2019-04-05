@@ -1,0 +1,8 @@
+---
+version: '3'
+services:
+  diploma-mongo:
+    container_name: mongodb
+    image: mongo:latest
+    ports:
+      - 27017:27017
