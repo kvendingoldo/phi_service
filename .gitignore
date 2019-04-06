@@ -21,3 +21,6 @@ hs_err_pid*
 .gitignore
 .idea/
 target/
+
+# JS
+node_modules

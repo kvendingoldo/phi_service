@@ -1,11 +1,10 @@
 package com.phi.service;
 
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScanls
+@ComponentScan
 @EnableAutoConfiguration
 public class Main {
 
