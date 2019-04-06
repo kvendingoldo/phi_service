@@ -1,7 +1,7 @@
 ---
 version: '3'
 services:
-  diploma-mongo:
+  mongo:
     container_name: mongodb
     image: mongo:latest
     ports:
